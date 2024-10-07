@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharushi Wijesinghe</h1>
+<!--<h1 align="center">Hi 👋, I'm Tharushi Wijesinghe</h1>
 <h3 align="center">A passionate Computer Science Undergraduate from SriLanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushiwijesinghe&label=Profile%20views&color=0e75b6&style=flat" alt="tharushiwijesinghe" /> </p>
@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharushiwijesinghe&show_icons=true&locale=en" alt="tharushiwijesinghe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharushiwijesinghe&" alt="tharushiwijesinghe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharushiwijesinghe&" alt="tharushiwijesinghe" /></p>-->
