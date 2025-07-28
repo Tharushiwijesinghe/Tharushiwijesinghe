@@ -68,10 +68,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%26+Data+Analyst;+MERN+Stack+%7C+AI+Solutions+%7C+Data-Driven+Apps;🌟+Crafting+Smart%2C+User-Centric+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=F58d17&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%26+Data+Analyst;MERN+Stack+%7C+AI+%7C+Insights+%7C+Cloud;Empowering+Ideas+With+Code+%26+Data)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
 </div>
 
 </div>
@@ -80,146 +80,21 @@
 
 ## <div align="center">🎯 **About Me** 🎯</div>
 
-<div align="center">
-<table>
-<tr>
-<td width="800">
-
 ```javascript
 const tharushi = {
-  currentRole: "Full Stack Developer & Data Analyst",
-  learningFocus: [
-    "MERN Stack Development",
-    "Machine Learning & Data Analytics",
-    "Clean UI/UX Design"
-  ],
+  role: "Full Stack Developer & Data Analyst",
   university: "🎓 University of Kelaniya",
-  interests: [
-    "Full Stack Web Development",
-    "Data Visualization & Insights",
-    "AI & Predictive Systems"
-  ],
-  expertise: {
-    stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
-    tools: ["Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
-    frontend: ["React", "Tailwind", "Bootstrap"],
-    cloud: ["Firebase", "Vercel", "Railway"]
+  skills: {
+    stack: ["MongoDB", "Express.js", "React", "Node.js"],
+    data: ["Python", "Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
+    frontend: ["Tailwind", "Bootstrap", "Figma"],
+    tools: ["Firebase", "Vercel", "Cloudinary"]
   },
-  motto: "Turn data into stories. Code into solutions ✨"
+  interests: [
+    "📊 Data Insights",
+    "💻 Full-Stack Development",
+    "🤖 Machine Learning",
+    "🎨 UI/UX"
+  ],
+  motto: "Build beautifully. Analyze smartly ✨"
 };
-
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## <div align="center">⚡ **What I Build** ⚡</div>
-
-<div align="center">
-
-|       📊 **Data Solutions**      |      💻 **MERN Development**     |        🎨 **UI/UX Design**       |
-| :------------------------------: | :------------------------------: | :------------------------------: |
-| Dashboards • Reports • ML Models | MongoDB • Express • React • Node | Tailwind • Figma • Framer Motion |
-|    Jupyter • Python Pipelines    |         Scalable Web Apps        |   Clean & Responsive Interfaces  |
-
-|   🤖 **AI & Automation**  |      ☁️ **Cloud Services**      |         🔍 **Data Insights**         |
-| :-----------------------: | :-----------------------------: | :----------------------------------: |
-| OpenAI • Automation Tools | Firebase • Cloudinary • Railway | EDA • Clustering • Prediction Models |
-
-</div>
-
----
-
-## <div align="center">🛠️ **Tech Arsenal** 🛠️</div>
-
-<div align="center">
-
-### **🔥 Core Technologies**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-### **⚛️ MERN Ecosystem**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-
-### **📈 Data & Analysis**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
-### **🎨 Frontend & Design**
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-
-### **☁️ Deployment & DevOps**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D12?style=for-the-badge\&logo=railway\&logoColor=white)
-
-</div>
-
----
-
-## <div align="center">📚 **Featured Projects** 📚</div>
-
-<div align="center">
-
-| Project            | Description                                           |
-| ------------------ | ----------------------------------------------------- |
-| **📊 FraudShield** | A credit card fraud detection system using ML & Flask |
-| **🏡 NestWorth**   | A home price estimator with Flask + React             |
-| **🍲 Recipe Blog** | AI-powered MERN stack food blog with chatbot          |
-| **💬 HealthWise**  | Health risk predictor using ML & interactive charts   |
-
-> 🔗 More on my GitHub: [View Projects](https://github.com/tharushiwijesinghe?tab=repositories)
-
-</div>
-
----
-
-## <div align="center">🤝 **Let's Connect** 🤝</div>
-
-<div align="center">
-
-<a href="mailto:tharushiwijesinghe.dev@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/tharushi-wijesinghe">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://wa.me/94XXXXXXXXX">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-### 💡 Open to collaborations • Freelance opportunities • Let's innovate together!
-
-</div>
-
----
-
-<div align="center">
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **"Where curiosity meets code — that’s where I thrive!"** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-**⭐ If you enjoy my work, give it a ⭐ and let’s grow together!**
-
-<img src="https://komarev.com/ghpvc/?username=tharushiwijesinghe&label=Profile%20Views&color=00d4aa&style=for-the-badge"/>
-
-</div>
-
