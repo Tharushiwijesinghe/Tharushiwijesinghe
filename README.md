@@ -1,8 +1,10 @@
 # <div align="center"> **Tharushi Wijesinghe** </div>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=F58d17&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%26+Data+Analyst;MERN+Stack+%7C+Insights+%7C+Cloud;Empowering+Ideas+With+Code+%26+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=04bade&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%26+Data+Analyst;MERN+Stack+%7C+Insights+%7C+Cloud;Empowering+Ideas+With+Code+%26+Data)](https://git.io/typing-svg)
 
 </div>
 
@@ -86,20 +88,22 @@ const tharushi = {
 
 ---
 
-## <div align="center"> **Let's Connect** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-</div>
+## <div align="center"> **Let's Connect** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></div>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/tharushi-wijesinghe" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/25/0077b5/linkedin.png" alt="LinkedIn" style="margin-right: 10px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tharushiwijesinghe99@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/25/d14836/gmail.png" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/94763957457" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/25/25d366/whatsapp.png" alt="WhatsApp" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/tharushi-wijesinghe">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000"/>
-</a>
-<a href="mailto:tharushiwijesinghe99@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/>
-</a>
-<a href="https://wa.me/94763957457">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000"/>
-</a>
 
 ### **💡 Open for collaborations • Available for freelance projects • Let's build something amazing!**
 
