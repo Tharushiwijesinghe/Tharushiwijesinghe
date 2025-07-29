@@ -86,7 +86,8 @@ const tharushi = {
 
 ---
 
-## <div align="center">🤝 **Let's Connect** 🤝</div>
+## <div align="center"> **Let's Connect** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+</div>
 
 <div align="center">
 
