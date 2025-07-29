@@ -85,3 +85,30 @@ const tharushi = {
 </div>
 
 ---
+
+## <div align="center">🤝 **Let's Connect** 🤝</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tharushi-wijesinghe">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000"/>
+</a>
+<a href="mailto:tharushiwijesinghe99@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/>
+</a>
+<a href="https://wa.me/94763957457">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000"/>
+</a>
+
+### **💡 Open for collaborations • Available for freelance projects • Let's build something amazing!**
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **"Intelligence meets creativity. Let's code the future!"** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
