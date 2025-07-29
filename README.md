@@ -1,12 +1,12 @@
 # <div align="center"> **Tharushi Wijesinghe** </div>
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=04bade&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%26+Data+Analyst;MERN+Stack+%7C+Insights+%7C+Cloud;Empowering+Ideas+With+Code+%26+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=924dbf&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%26+Data+Analyst;MERN+Stack+%7C+Insights+%7C+Cloud;Empowering+Ideas+With+Code+%26+Data)](https://git.io/typing-svg)
 
 </div>
+
+
+<p align="center" ><img align="center" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"></p>
 
 
 ---
@@ -92,19 +92,11 @@ const tharushi = {
 ---
 
 ## <div align="center"> **Let's Connect** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></div>
+
 <div align="center">
-  <p>
-    💼  
-    <a href="https://www.linkedin.com/in/tharushi-wijesinghe" target="_blank" style="color: #fdd835;">LinkedIn</a>
-  </p>
-  <p>
-   📬   
-    <a href="mailto:tharushiwijesinghe99@gmail.com" target="_blank" style="color: #fdd835;">Email</a>
-  </p>
-  <p>
-   💬   
-    <a href="https://wa.me/94763957457" target="_blank" style="color: #fdd835;">WhatsApp</a>
-  </p>
+  💼 <a href="https://www.linkedin.com/in/tharushi-wijesinghe" target="_blank" style="color: #fdd835;">LinkedIn</a> &nbsp; | &nbsp;
+  📬 <a href="mailto:tharushiwijesinghe99@gmail.com" target="_blank" style="color: #fdd835;">Email</a> &nbsp; | &nbsp;
+  💬 <a href="https://wa.me/94763957457" target="_blank" style="color: #fdd835;">WhatsApp</a>
 </div>
 
 
