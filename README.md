@@ -91,6 +91,74 @@ const tharushi = {
 
 ---
 
+
+## <div align="center">🌟 **Latest Projects** 🌟</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🍽️ **Food Blog**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharushiwijesinghe&repo=Food_Blog&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)](https://github.com/Tharushiwijesinghe/Food_Blog)
+
+🔗 [Live Demo](https://food-blog-ikps.vercel.app/)  
+**Tech Stack:** MERN • File Upload • JWT Auth  
+**Features:** 🧑‍🍳 Recipe Posting • 🔐 Admin Panel
+
+</td>
+<td width="50%">
+
+### 📦 **Sales Shipment Analytics**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharushiwijesinghe&repo=Sales_Shipment_Analytics&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)](https://github.com/Tharushiwijesinghe/Sales_Shipment_Analytics)
+
+**Tech Stack:** Snowflake • Python • Machine Learning  
+**Features:** 📊 Predictive Analytics • 📦 Shipment Insights
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏠 **NestWorth**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharushiwijesinghe&repo=NestWorth&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)](https://github.com/Tharushiwijesinghe/NestWorth)
+
+**Tech Stack:** React • Flask • AWS  
+**Features:** 📐 Home Price Estimation • 📍 Location-Based Prediction
+
+</td>
+<td width="50%">
+
+### ✈️ **Travel Agency Website**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharushiwijesinghe&repo=Travel-Agency&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)](https://github.com/Tharushiwijesinghe/Travel-Agency)
+
+🔗 [Live Demo](https://kvabhaya.github.io/Travel-Agency/)  
+**Tech Stack:** React • Styled Components  
+**Features:** 🧳 Tour Packages • 📱 Responsive Design
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🚀 **More Projects**
+<a href="https://github.com/Tharushiwijesinghe?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Projects-00D4AA?style=for-the-badge&logo=github&logoColor=white&labelColor=000"/>
+</a>
+
+**Explore:** 20+ repositories  
+**Focus:** MERN • Analytics • Full-Stack Development
+
+</td>
+</tr>
+</table>
+</div>
+
+
+---
+
+
+
 ## <div align="center"> **Let's Connect** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></div>
 
 <div align="center">
