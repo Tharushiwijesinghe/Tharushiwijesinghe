@@ -42,7 +42,10 @@ const tharushi = {
 </tr>
 </table>
 </div>
+
+
 ---
+
 
 ## <div align="center">🛠️ **Tech Arsenal** 🛠️</div>
 
@@ -89,21 +92,25 @@ const tharushi = {
 ---
 
 ## <div align="center"> **Let's Connect** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></div>
+<div align="center">
+  <p>
+    💼  
+    <a href="https://www.linkedin.com/in/tharushi-wijesinghe" target="_blank" style="color: #fdd835;">LinkedIn</a>
+  </p>
+  <p>
+   📬   
+    <a href="mailto:tharushiwijesinghe99@gmail.com" target="_blank" style="color: #fdd835;">Email</a>
+  </p>
+  <p>
+   💬   
+    <a href="https://wa.me/94763957457" target="_blank" style="color: #fdd835;">WhatsApp</a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tharushi-wijesinghe" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/25/0077b5/linkedin.png" alt="LinkedIn" style="margin-right: 10px;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tharushiwijesinghe99@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/25/d14836/gmail.png" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/94763957457" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/25/25d366/whatsapp.png" alt="WhatsApp" />
-  </a>
-</p>
 
+
+
+<br>
 
 ### **💡 Open for collaborations • Available for freelance projects • Let's build something amazing!**
 
