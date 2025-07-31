@@ -25,7 +25,7 @@ const tharushi = {
     stack: ["MongoDB", "Express.js", "React", "Node.js"],
     data: ["Python", "Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
     frontend: ["Tailwind", "Bootstrap", "Figma"],
-    tools: ["Firebase", "Vercel", "Cloudinary"]
+    tools: ["railway", "Vercel", "Cloudinary"]
   },
   interests: [
     "📊 Data Insights",
@@ -83,7 +83,6 @@ const tharushi = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000)
 
 ### **☁️ Cloud & Deployment**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white&labelColor=000)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=333)
 
@@ -124,7 +123,7 @@ const tharushi = {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharushiwijesinghe&repo=NestWorth&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)](https://github.com/Tharushiwijesinghe/NestWorth)
 
 **Tech Stack:** React • Flask • AWS  
-**Features:** 📐 Home Price Estimation • 📍 Location-Based Prediction
+**Features:** 📐 Home Price Estimation • 📍 Feature-Based Prediction
 
 </td>
 <td width="50%">
