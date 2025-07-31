@@ -99,7 +99,7 @@ const tharushi = {
 <td width="50%">
 
 ### 🍽️ **Food Blog**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharushiwijesinghe&repo=Food_Blog&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)](https://github.com/Tharushiwijesinghe/Food_Blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharushiwijesinghe&repo=Food_Blog&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)](https://github.com/Tharushiwijesinghe/Food_Blog.git)
 
 🔗 [Live Demo](https://food-blog-ikps.vercel.app/)  
 **Tech Stack:** MERN • File Upload • JWT Auth  
