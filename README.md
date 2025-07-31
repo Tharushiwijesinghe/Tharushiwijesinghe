@@ -1,7 +1,7 @@
 # <div align="center"> **Tharushi Wijesinghe** </div>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=924dbf&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%26+Data+Enthusiast;MERN+Stack+%7C+Insights+%7C+Cloud;Empowering+Ideas+With+Code+%26+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=924dbf&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%26+Data+Science+Enthusiast;MERN+Stack+%7C+Insights+%7C+Cloud;Empowering+Ideas+With+Code+%26+Data)](https://git.io/typing-svg)
 
 </div>
 
